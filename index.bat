@@ -1,3 +1,3 @@
 @echo off
 cls
-python index.py hidden
+python src/index.py hidden
