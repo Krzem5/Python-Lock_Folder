@@ -1,2 +1,2 @@
-# Python - Windows Malicious Folder Creator
+# Python - Lock Folder
 (This is an auto - generated file.)
